@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://github.com/helisuharjono99-lab/youtube-optimize-pro-updates/releases/download/v1.0.1/YouTubeOptimizePro.exe",
+  "changelog": "- Perbaikan validasi kode negara di Jelajah\n- Perbaikan warna kolom input\n- Penambahan fitur cek pembaruan",
+  "mandatory": false
+}
